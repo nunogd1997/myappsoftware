@@ -1,0 +1,10 @@
+Nombre de la base de datos: myappsoftware
+Usuario BD: root
+Pass BD: ''
+
+Para cambiar estos datos ingresar en: include/conexion/conexion.php
+
+Datos de ingreso:
+Usuario: myapp
+Contraseña: 123456789
+
